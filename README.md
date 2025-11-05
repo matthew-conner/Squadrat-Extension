@@ -37,8 +37,8 @@ pip install pandas matplotlib numpy
 ```bash
 Local_extract.ipynb
 ```
-Adapt the path to .kml file
-Adapt the region you want to explore in Local_extract.ipynb
+- Adapt the path to .kml file  
+- Adapt the region you want to explore in Local_extract.ipynb  
 
 ```bash
 Local_yard.ipynb
