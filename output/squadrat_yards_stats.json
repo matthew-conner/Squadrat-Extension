@@ -1,18 +1,18 @@
 [
   {
-    "num_squares": 10,
-    "tile_x_min": 8407,
-    "tile_x_max": 8411,
-    "tile_y_min": 5845,
-    "tile_y_max": 5849,
-    "lat_min": 45.67548217560646,
-    "lat_max": 45.75219336063106,
-    "lon_min": 4.72412109375,
-    "lon_max": 4.833984375,
-    "center_lat": 45.713837768118765,
-    "center_lon": 4.779052734375,
+    "num_squares": 56,
+    "tile_x_min": 9008,
+    "tile_x_max": 9016,
+    "tile_y_min": 4808,
+    "tile_y_max": 4818,
+    "lat_min": 59.321980540101954,
+    "lat_max": 59.44507509904714,
+    "lon_min": 17.9296875,
+    "lon_max": 18.12744140625,
+    "center_lat": 59.383527819574546,
+    "center_lon": 18.028564453125,
     "name": "Yard",
     "rank": 1,
-    "num_tiles": 10
+    "num_tiles": 56
   }
 ]
