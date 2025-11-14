@@ -1,6 +1,6 @@
 [
   {
-    "num_squares": 71,
+    "num_squares": 73,
     "tile_x_min": 8469,
     "tile_x_max": 8480,
     "tile_y_min": 5795,
@@ -13,6 +13,6 @@
     "center_lon": 6.21826171875,
     "name": "Yard",
     "rank": 1,
-    "num_tiles": 71
+    "num_tiles": 73
   }
 ]
